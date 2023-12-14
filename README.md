@@ -24,6 +24,6 @@ The project is structured into independent modules, each module can be ran indep
 To train or test with different hyperparameters, modify the `config.py` file accordingly. This allows for easy experimentation and tuning.
 
 ## Acknowledgments
-Part of the code is inspired by [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
+Part of the code is inspired by [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8
 
 
