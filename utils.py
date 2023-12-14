@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 28 10:36:07 2022
-
-@author: tripa
-"""
-
 import os
 import config
 from PIL import Image
@@ -14,6 +7,7 @@ from skimage.color import rgb2lab, lab2rgb
 import torch
 from torch import nn
 from torchvision import transforms
+import fastai
 
 def lab_to_rgb(L, ab):
     
